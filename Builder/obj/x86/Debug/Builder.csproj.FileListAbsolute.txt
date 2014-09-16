@@ -1,0 +1,4 @@
+C:\Users\rrasti\Desktop\Development\Personal\C#\Design Patterns\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\rrasti\Desktop\Development\Personal\C#\Design Patterns\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\rrasti\Desktop\Development\Personal\C#\Design Patterns\Builder\Builder\obj\x86\Debug\Builder.exe
+C:\Users\rrasti\Desktop\Development\Personal\C#\Design Patterns\Builder\Builder\obj\x86\Debug\Builder.pdb
